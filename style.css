@@ -1,0 +1,46 @@
+body{
+  border: 2px solid black ; border-radius: 5px; 
+  width: 960px; margin: 5px auto;
+}
+.container{
+  margin: 2px;
+  padding: 2px;
+  background-color: rgb(220, 245, 245);
+}
+.head{
+ display: flex; position: relative;
+}
+.head h2{
+  margin:25px 5px 5px 5px;
+}
+.head h3{
+  margin: 5px;
+}
+.num{
+  font-weight: 400;
+}
+.head-1{
+ right: 2px; position: absolute; margin-top:2px; 
+}
+.head-1 img{
+  width: 100px; height: 120px;
+}
+.t-1 table{
+  width: 100%;
+  background-color:rgb(214, 213, 213) ;
+  margin-bottom:15px;
+ }
+ .t-1 table tr th{
+  padding-bottom: 15px;
+   text-align: center;
+   font-size: 20px;
+ }
+ .t-1 table tr td{
+   font-size: 17px;
+ }
+ .pq{
+ background-color: rgb(214, 213, 213);
+ }
+ .pq p{
+   font-size: 17px;
+ }
